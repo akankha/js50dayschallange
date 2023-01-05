@@ -3,6 +3,7 @@
     box-sizing: border-box;
 }
 
+
 body{
     font-family: 'Poppins', sans-serif;
     display: flex;
@@ -11,6 +12,10 @@ body{
     height: 100vh;
     overflow: hidden;
     margin: 0;
+}
+header{
+    display: flex;
+    flex-direction: column;
 }
 .container{
     display: flex;
@@ -27,7 +32,7 @@ body{
     flex:0.5;
     margin: 5px;
     position: relative;
-    transition: flex 0.7s ease-in;
+    transition: flex 0.5s ease-in;
 }
 .panel h3{
     font-size: 24px;
@@ -42,4 +47,5 @@ body{
 }
 .panel.active h3{
    opacity: 1; 
+   transition: opacity 0.3s ease-in 0.4s;
 }
