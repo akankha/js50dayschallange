@@ -59,7 +59,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 3px double var(--line-border-empty);
+    border: 3px solid var(--line-border-empty);
     transition: .4s ease;
 
 }
