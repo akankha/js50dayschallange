@@ -6,7 +6,7 @@ This is a repository for my "50 Projects 50 Days" challenge, inspired by Travers
 
 Here are the 50 small projects I will be completing as part of this challenge:
 
-- **Project 1:** Brief project description [Live Demo](https://akankha.github.io/js50dayschallange/day1/index.html) [Github Repo](https://github.com/akankha/js50dayschallange/tree/main/day1)
+- **Project 1:** Day 1 - Expanding Cards [Live Demo](https://akankha.github.io/js50dayschallange/day1/index.html) [Github Repo](https://github.com/akankha/js50dayschallange/tree/main/day1)
 
 
 ## Getting Started
@@ -27,7 +27,7 @@ Mohi Uddin Ahmed
 
 ## Acknowledgments
 
-Thank you to (insert names) for providing inspiration and resources for this project.
+Thank you to Traversy Media for providing inspiration and resources for this project.
 
 ## Find me on
 
