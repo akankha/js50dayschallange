@@ -1,6 +1,6 @@
-# 50 Projects 50 Days
+# 50 Js Projects 50 Days
 
-This is a repository for my "50 Projects 50 Days" challenge, inspired by Traversy Media. In this challenge, I will be completing 50 small projects using JavaScript, HTML, and CSS in 50 days or less. Each project will have its own folder, containing the project files and a README.md file with a description of the project.
+This is a repository for my "50 Js Projects 50 Days" challenge, inspired by Traversy Media. In this challenge, I will be completing 50 small projects using JavaScript, HTML, and CSS in 50 days or less. Each project will have its own folder, containing the project files and a README.md file with a description of the project.
 
 ## Projects
 
