@@ -7,6 +7,9 @@ This is a repository for my "50 Js Projects 50 Days" challenge, inspired by Trav
 Here are the 50 small projects I will be completing as part of this challenge:
 
 - **Day 1:** Expanding Cards [Live Demo](https://akankha.github.io/js50dayschallange/day1/index.html) [Github Repo](https://github.com/akankha/js50dayschallange/tree/main/day1)
+- **Day 2:** Progress Steps [Live Demo](https://akankha.github.io/js50dayschallange/day2/index.html) [Github Repo](https://github.com/akankha/js50dayschallange/tree/main/day2)
+- **Day 3:** Progress Steps [Live Demo](https://akankha.github.io/js50dayschallange/day3/index.html) [Github Repo](https://github.com/akankha/js50dayschallange/tree/main/day3)
+- **Day 4:** Progress Steps [Live Demo](https://akankha.github.io/js50dayschallange/day4/index.html) [Github Repo](https://github.com/akankha/js50dayschallange/tree/main/day4)
 
 
 ## Getting Started
